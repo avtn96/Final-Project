@@ -23,4 +23,4 @@ The data used in this project includes gene expression profiles, phenotype metad
 ## 🎥 Code Walkthrough Videos
 To help understand the code structure and functionality, we’ve created detailed walkthrough videos.
 
-- 📺 **[Watch the Code Explanation Videos Here](https://drive.google.com/drive/folders/1XM73r1ET2L7HWkP9XOkOrOq-1gxgOj7_?usp=drive_link)** 
+- 📺 **[Watch the Code Explanation Videos Here](https://www.youtube.com/playlist?list=PLwmNGpwHkBFSbW8sDxN97-CgTyAidjnWk)** 
